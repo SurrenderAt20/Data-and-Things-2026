@@ -1,0 +1,20 @@
+# Claude Code local settings
+.claude/
+
+# Files too large for GitHub (>100MB)
+Subject Folders/misc/df_climate_obstruction_german_notext.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
